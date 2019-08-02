@@ -1,0 +1,11 @@
+F:\UniLua\obj\Debug\netcoreapp2.2\UniLua.csprojAssemblyReference.cache
+F:\UniLua\obj\Debug\netcoreapp2.2\UniLua.csproj.CoreCompileInputs.cache
+F:\UniLua\obj\Debug\netcoreapp2.2\UniLua.AssemblyInfoInputs.cache
+F:\UniLua\obj\Debug\netcoreapp2.2\UniLua.AssemblyInfo.cs
+F:\UniLua\bin\Debug\netcoreapp2.2\UniLua.deps.json
+F:\UniLua\bin\Debug\netcoreapp2.2\UniLua.runtimeconfig.json
+F:\UniLua\bin\Debug\netcoreapp2.2\UniLua.runtimeconfig.dev.json
+F:\UniLua\bin\Debug\netcoreapp2.2\UniLua.dll
+F:\UniLua\bin\Debug\netcoreapp2.2\UniLua.pdb
+F:\UniLua\obj\Debug\netcoreapp2.2\UniLua.dll
+F:\UniLua\obj\Debug\netcoreapp2.2\UniLua.pdb
